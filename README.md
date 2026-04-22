@@ -19,7 +19,7 @@ A powerful Python-based tool to extract and download videos from websites with p
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/VideoVault.git
+git clone https://github.com/abduls-arts/video-vault.git
 # Install dependencies
 pip install yt-dlp pillow
 
