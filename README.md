@@ -29,7 +29,7 @@ sudo apt install ffmpeg
 # Windows: https://ffmpeg.org/download.html
 
 # Run the app
-python video_downloader.py
+python video_downloader1.py
 
 ## ⚠️ Disclaimer
 This tool is for educational and ethical use only. Do not download copyrighted content without permission.
